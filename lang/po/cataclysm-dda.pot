@@ -98607,6 +98607,10 @@ msgstr ""
 msgid "Divert power to elevator"
 msgstr ""
 
+#: src/mapgen.cpp
+msgid "DANGER! MINEFIELD!"
+msgstr ""
+
 #: src/mapgen_functions.cpp
 msgid "Church Bells 1.2"
 msgstr ""
